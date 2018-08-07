@@ -1,2 +1,3 @@
-# vnd_me
-vnd
+VoLTE apk + config for MTK 
+
+THIS IS WIP
